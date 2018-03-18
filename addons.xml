@@ -1,5 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.video.KonJen" version="1.9.3" name="KonJen" provider-name="Dknlght, Price, Dodgex, Goupon">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.beautifulsoup" version="3.0.8"/>
+        <import addon="script.module.urlresolver"  version="0.0.1"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="plugin.video.youtube"/>
+        <import addon="plugin.video.vimeo"/>		
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="ADDON.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Collections of Chinese series dubbed in Khmer from various site</summary>
+    <description>Use at your own risk</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.KonKhmer" version="1.9.3" name="KonKhmer" provider-name="Dknlght, Price, Dodgex, Goupon">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.beautifulsoup" version="3.0.8"/>
+        <import addon="script.module.urlresolver"  version="0.0.1"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>	
+        <import addon="plugin.video.youtube"/>
+        <import addon="plugin.video.vimeo"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="ADDON.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Collections of Khmer movies, series and live tv from various site</summary>
+    <description>Use at your own risk</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.KonKorea" version="1.9.3" name="KonKorea" provider-name="Dknlght, Price, Dodgex, Goupon">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.beautifulsoup" version="3.0.8"/>
+        <import addon="script.module.urlresolver"  version="0.0.1"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="plugin.video.youtube"/>
+        <import addon="plugin.video.vimeo"/>      
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="ADDON.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Collections of Korean series dubbed in Khmer from various site</summary>
+    <description>Use at your own risk</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.KonThai" version="1.9.3" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.beautifulsoup" version="3.0.8"/>
+        <import addon="script.module.urlresolver"  version="0.0.1"/>
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>	
+        <import addon="plugin.video.youtube"/>
+        <import addon="plugin.video.vimeo"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="ADDON.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Collections of Thai Lakorn dubbed in Khmer from various site</summary>
+    <description>Use at your own risk</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+
 
 <addon id="plugin.program.KonWizard" name="Kon Wizard" version="2.0.4" provider-name="Groupon">
   <requires>
