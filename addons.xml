@@ -8,7 +8,8 @@
         <import addon="script.module.urlresolver"  version="0.0.1"/>
         <import addon="script.module.t0mm0.common" version="1.1.0"/>
         <import addon="plugin.video.youtube"/>
-        <import addon="plugin.video.vimeo"/>		
+        <import addon="plugin.video.vimeo"/>	
+        <import addon="plugin.video.dailymotion_com"/>			
   </requires>
   <extension point="xbmc.python.pluginsource" library="ADDON.py">
         <provides>video</provides>
@@ -26,9 +27,10 @@
         <import addon="script.module.simplejson" />
         <import addon="script.module.beautifulsoup" version="3.0.8"/>
         <import addon="script.module.urlresolver"  version="0.0.1"/>
-        <import addon="script.module.t0mm0.common" version="1.1.0"/>	
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
         <import addon="plugin.video.youtube"/>
-        <import addon="plugin.video.vimeo"/>
+        <import addon="plugin.video.vimeo"/>	
+        <import addon="plugin.video.dailymotion_com"/>	
   </requires>
   <extension point="xbmc.python.pluginsource" library="ADDON.py">
         <provides>video</provides>
@@ -48,7 +50,8 @@
         <import addon="script.module.urlresolver"  version="0.0.1"/>
         <import addon="script.module.t0mm0.common" version="1.1.0"/>
         <import addon="plugin.video.youtube"/>
-        <import addon="plugin.video.vimeo"/>      
+        <import addon="plugin.video.vimeo"/>	
+        <import addon="plugin.video.dailymotion_com"/>	     
   </requires>
   <extension point="xbmc.python.pluginsource" library="ADDON.py">
         <provides>video</provides>
@@ -66,9 +69,10 @@
         <import addon="script.module.simplejson" />
         <import addon="script.module.beautifulsoup" version="3.0.8"/>
         <import addon="script.module.urlresolver"  version="0.0.1"/>
-        <import addon="script.module.t0mm0.common" version="1.1.0"/>	
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
         <import addon="plugin.video.youtube"/>
-        <import addon="plugin.video.vimeo"/>
+        <import addon="plugin.video.vimeo"/>	
+        <import addon="plugin.video.dailymotion_com"/>	
   </requires>
   <extension point="xbmc.python.pluginsource" library="ADDON.py">
         <provides>video</provides>
