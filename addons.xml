@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.KonJen" version="2.0.3" name="KonJen" provider-name="Dknlght, Price, Dodgex, Goupon">
+<addon id="plugin.video.KonJen" version="2.0.4" name="KonJen" provider-name="Dknlght, Price, Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
@@ -21,7 +21,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KonKorea" version="2.0.0" name="KonKorea" provider-name="Dknlght, Price, Dodgex, Goupon">
+<addon id="plugin.video.KonKorea" version="2.0.4" name="KonKorea" provider-name="Dknlght, Price, Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
@@ -42,7 +42,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KonThai" version="2.0.2" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
+<addon id="plugin.video.KonThai" version="2.0.4" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
