@@ -63,23 +63,17 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KonKhmer" version="2.2.7" name="KonKhmer" provider-name="Dknlght, Price, Dodgex, Goupon">
+<addon id="plugin.video.KonKhmer" version="2.2.8" name="KonKhmer" provider-name="Dodgex">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.simplejson" />
-        <import addon="script.module.beautifulsoup" version="3.0.8"/>
-        <import addon="script.module.urlresolver"  version="0.0.1"/>
-        <import addon="script.module.t0mm0.common" version="1.1.0"/>
-        <import addon="plugin.video.youtube"/>
-        <import addon="plugin.video.vimeo"/>	
-        <import addon="plugin.video.dailymotion_com"/>	
   </requires>
-  <extension point="xbmc.python.pluginsource" library="ADDON.py">
+  <extension point="xbmc.python.pluginsource"
+            library="ADDON.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Collections of Khmer movies, series and live tv from various site</summary>
-    <description>Use at your own risk</description>
+    <summary>Khmer TV</summary>
+    <description>Watch Video in Khmer</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -104,6 +98,7 @@
     <platform>all</platform>
   </extension>
 </addon>
+	
 <addon id="plugin.video.karaoke" name="Khmer Karaoke" version="1.0.0" provider-name="Goupon">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
