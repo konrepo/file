@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.KonJen" version="2.2.9" name="KonJen" provider-name="Dknlght, Price, Dodgex, Goupon">
+<addon id="plugin.video.KonJen" version="2.3.0" name="KonJen" provider-name="Dknlght, Price, Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
