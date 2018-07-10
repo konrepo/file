@@ -1,5 +1,5 @@
 name="Khmer"
-url="https://www.dropbox.com/s/icr9tdbmrumvko2/KhmerAdult.zip?dl=1"
+url="https://"
 img="https://raw.githubusercontent.com/konrepo/file/master/logo/khmerLive_logo.png"
 fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg"
 description="American and dubbed in Khmer"
