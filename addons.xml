@@ -78,7 +78,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KonMovie" version="1.2.1" name="KonMovie" provider-name="Dodgex, Goupon">
+<addon id="plugin.video.KonMovie" version="1.2.2" name="KonMovie" provider-name="Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
