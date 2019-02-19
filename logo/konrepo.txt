@@ -1,3 +1,11 @@
+
+name="Khmer Thai - Kodi v18 Only"
+url="https://www.dropbox.com/s/9wi9i0dkjz863dr/KhmerKid18.zip?dl=1"
+img="https://raw.githubusercontent.com/konrepo/file/master/logo/KhmerNoXXX.png"
+fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg"
+description="Khmer Thai and American, no adult"
+
+
 name="Khmer Thai"
 url="https://www.dropbox.com/s/8f5bgr8x3ead1yi/KhmerKid.zip?dl=1"
 img="https://raw.githubusercontent.com/konrepo/file/master/logo/KhmerNoXXX.png"
