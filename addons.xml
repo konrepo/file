@@ -155,17 +155,17 @@
 </addon>	
 	
 
-<addon id="plugin.program.KonWizard" name="Kon Wizard" version="2.0.5" provider-name="Goupon">
+<addon id="plugin.program.KonWizard" name="Kon Wizard" version="2.1" provider-name="Goupon">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>program executable</provides>
+    <provides>executable</provides>
   </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Kon Wizard</summary>
-    <description lang="en">More info at https://kodi.tv/</description>
-    <disclaimer lang="en">Use at your own risk</disclaimer>
+    <description lang="en">Use at your own risk</description>
     <platform>all</platform>
   </extension>
 </addon>
