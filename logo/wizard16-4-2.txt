@@ -1,5 +1,0 @@
-name="Khmer"
-url="https://"
-img="https://raw.githubusercontent.com/konrepo/file/master/logo/khmerLive_logo.png"
-fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg"
-description="American and dubbed in Khmer"
