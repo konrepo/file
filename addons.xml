@@ -149,7 +149,7 @@
 </addon>	
 	
 
-<addon id="plugin.program.KonWizard" name="Kon Wizard" version="2.2" provider-name="Goupon">
+<addon id="plugin.program.KonWizard" name="Kon Wizard" version="2.3" provider-name="Goupon">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
