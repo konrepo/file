@@ -31,7 +31,7 @@ theme="http://"
 icon="https://raw.githubusercontent.com/konrepo/file/master/logo/us.png"
 fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg"
 preview="https://"
-adult="no"
+adult="yes"
 description="This addon belongs to Es"
 
 name="Khmer kid"
