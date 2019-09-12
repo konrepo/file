@@ -1,6 +1,6 @@
 name="test"
 version="1.0.0"
-url="http://tiny.cc/khmera"
+url="https://www.dropbox.com/s/vaiw4y351zewj71/AtvOS.zip?dl=1"
 gui="http://"
 kodi="18.4"
 theme="http://"
