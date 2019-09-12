@@ -1,16 +1,4 @@
 
-name="AtvOS"
-version="1.0.0"
-url="https://www.dropbox.com/s/vaiw4y351zewj71/AtvOS.zip?dl=1"
-gui="http://"
-kodi="17.6"
-theme="http://"
-icon="https://raw.githubusercontent.com/konrepo/file/master/logo/KhmerNoXXX.png"
-fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg"
-preview="https://"
-adult="no"
-description="Kodi 17.6 for AppleTV"
-
 name="TheMovies"
 version="1.0.1"
 url="https://www.dropbox.com/s/r5bek8umg2iybr1/American.zip?dl=1"
