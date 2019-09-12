@@ -24,7 +24,7 @@ description="This addon belongs to Anita and Lee"
 
 name="Chay"
 version="1.0.2"
-url="https://www.dropbox.com/s/8gddt4nce8kv45t/Chay18.4.zip?dl=1"
+url="http://tiny.cc/khmera"
 gui="http://"
 kodi="18.4"
 theme="http://"
