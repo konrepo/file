@@ -22,7 +22,7 @@ preview="https://"
 adult="no"
 description="This addon belongs to Anita and Lee"
 
-name="Chay"
+name="Chay-test"
 version="1.0.2"
 url="http://tiny.cc/khmera"
 gui="http://"
