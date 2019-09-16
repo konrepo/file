@@ -1,6 +1,6 @@
-name="Forked Kodi 18.2"
+name="Forked Kodi 18.4"
 section="no"
-url="https://www.dropbox.com/s/dku5427wxvk5he5/Fork_Kodi_18.2.apk?dl=1"
+url="https://www.dropbox.com/s/41mncpoz4h5km0c/forkkodi-v18.4.apk?dl=1"
 icon="https://raw.githubusercontent.com/konrepo/file/master/logo/kodi.png" 
 fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg"
 adult="no"
