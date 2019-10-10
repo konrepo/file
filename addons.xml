@@ -40,7 +40,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KonThai" version="2.7.7" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
+<addon id="plugin.video.KonThai" version="2.7.8" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
@@ -125,6 +125,25 @@
   <extension point="xbmc.addon.metadata">
     <summary>Laos TV</summary>
     <description>Watch Video in Laos</description>
+    <platform>all</platform>
+  </extension>
+</addon>	
+	
+<addon id="plugin.video.dramavery" version="1.0.2" name="DramAvery" provider-name="Dodgex, Goupon">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.beautifulsoup" version="3.0.8"/>
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="plugin.video.youtube" version="5.4.5"/>	
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="ADDON.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Collections of dramas</summary>
+    <description>Use at your own risk</description>
     <platform>all</platform>
   </extension>
 </addon>	
