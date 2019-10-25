@@ -64,7 +64,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KonKhmer" version="2.2.9" name="KonKhmer" provider-name="Dodgex">
+<addon id="plugin.video.KonKhmer" version="2.3.0" name="KonKhmer" provider-name="Dodgex">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
   </requires>
