@@ -11,7 +11,7 @@ adult="no"
 description="Kodi 17.6 for AppleTV"
 
 name="TheMovies"
-version="1.0.1"
+version="1.0.2"
 url="https://www.dropbox.com/s/r5bek8umg2iybr1/Lee-Anita.zip?dl=1"
 gui="http://"
 kodi="18.4"
