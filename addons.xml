@@ -42,7 +42,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KonThai" version="2.8.4" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
+<addon id="plugin.video.KonThai" version="2.8.5" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
@@ -133,7 +133,7 @@
   </extension>
 </addon>	
 	
-<addon id="plugin.video.dramavery" version="1.0.5" name="DramAvery" provider-name="Dodgex, Goupon">
+<addon id="plugin.video.dramavery" version="1.0.6" name="DramAvery" provider-name="Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
