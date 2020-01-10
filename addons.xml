@@ -94,46 +94,8 @@
     <platform>all</platform>
   </extension>
 </addon>
-
-<addon
-  id="plugin.video.thaitv"
-  version="0.0.1"
-  name="ThaiTV"
-  provider-name="Dodge">
-  <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="ADDON.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Thai TV</summary>
-    <description>Watch Video in Thai</description>
-    <platform>all</platform>
-  </extension>
-</addon>	
-
-<addon
-  id="plugin.video.laostv"
-  version="0.0.1"
-  name="LaosTV"
-  provider-name="Dodge">
-  <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="ADDON.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Laos TV</summary>
-    <description>Watch Video in Laos</description>
-    <platform>all</platform>
-  </extension>
-</addon>	
 	
-<addon id="plugin.video.dramavery" version="1.0.6" name="DramAvery" provider-name="Dodgex, Goupon">
+<addon id="plugin.video.dramavery" version="1.0.7" name="DramAvery" provider-name="Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
