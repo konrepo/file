@@ -97,7 +97,7 @@
 	
 <addon
   id="plugin.video.moviehdkh"
-  version="0.0.2"
+  version="0.0.3"
   name="Moviehdkh"
   provider-name="Dodge">
   <requires>
