@@ -95,6 +95,28 @@
   </extension>
 </addon>
 	
+<addon id="plugin.video.movieKHhd" version="1.0.0" name="movieKHhd" provider-name="Dodgex, Goupon">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.beautifulsoup" version="3.0.8"/>
+        <import addon="script.module.resolveurl" />
+        <import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="plugin.video.youtube" version="5.4.5"/>	
+        <import addon="plugin.video.khmerdl" version="0.0.1"/>	
+        <import addon="service.liveproxy" version="0.1.1"/>	
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="ADDON.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Collections videos</summary>
+    <description>Use at your own risk</description>
+    <platform>all</platform>
+  </extension>
+</addon>	
+	
 <addon
   id="plugin.video.moviehdkh"
   version="0.0.3"
