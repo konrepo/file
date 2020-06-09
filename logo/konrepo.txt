@@ -21,7 +21,7 @@ icon="https://raw.githubusercontent.com/konrepo/file/master/logo/KhmerNoXXX.png"
 fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg"
 preview="https://"
 adult="no"
-description="Dubbed in Khmer"
+description="Dubbed in Khmers"
 
 name="Maylee"
 version="1.0.5"
