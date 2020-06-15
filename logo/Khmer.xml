@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<channels>
+  <channel>
+    <name>KhmerTV</name>
+    <info>Khmer channels from khiptv</info>
+    <item>
+      <title>Apsara</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=5c6a5dc8dc903af99b7eb41b020b40e6&amp;nns_video_id=07b506429e01034350f1f7508043ba17&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/apsara.png</thumbnail>
+	  <resolve>true</resolve>
+    </item>
+    <item>
+      <title>Bayon</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456CA&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=3fab1344412c07302c3710e9f474ef72&amp;nns_video_id=8bbf89d7eb9e8230be83780d9bf6e7f2&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/Bayon.png</thumbnail>
+    </item>
+    <item>
+      <title>BTV News</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=3d0ddfad9f30b4ad8d991c78797ba380&amp;nns_video_id=7c9e4ad310e93a55d762ef4c741b2c59&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/BTV.png</thumbnail>
+    </item>	
+    <item>
+      <title>CNC</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=51cb3efed11a0094944cc78c7f950fdd&amp;nns_video_id=305c725d29f8e7b9684e09e9d463669e&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/CNC.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>	
+	<item>
+      <title>CTN</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=f4bb36746f145be94deb9c17d0965f74&amp;nns_video_id=f942ece95cb181ee4111c9921737b575&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/CTN.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>
+    <item>
+      <title>CTV8</title>
+      <link>http://220.158.149.26:8182/hls/TV00000000000000000142@HHZT.m3u8</link>
+      <thumbnail>https://i.imgur.com/KWjeTlX.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>	
+	<item>
+      <title>ETV</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=19446ec121a1fac407ecd1459467ba5c&amp;nns_video_id=f7d0d8935e3b8483e5b315fc2f54c4be&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/ETV.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>	
+	<item>
+      <title>Hang Meas</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=21488d9895e5bffde928ec9384fcc9f2&amp;nns_video_id=0264fb03fa31bb849ba82c1f3ab22ce6&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/RHM.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>
+	<item>
+      <title>Hang Meas HD</title>
+      <link>http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/RHM.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>	
+	<item>
+      <title>MSJTV</title>
+      <link>rtmp://124.248.165.18:1935/live/myStream playpath=myStream swfUrl=http://msjtv.asia/Scripts/player/6.11/player.flash.swf live=true</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/MSJTV.png</thumbnail>
+    </item>	
+	<item>
+      <title>MyTV</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=a89cdd8c6279eb0b584627e0f571a698&amp;nns_video_id=00d0bfe34121cd8a998a4bf7fffd2c19&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/MYTV.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>
+    <item>
+    <item>
+      <title>Nice TV</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=e292792509870ed1299777671ebe303e&amp;nns_video_id=4006b4cbf4b7d80eef7f08d0da320ad7&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>http://103.242.12.23/prev/StarCor/live/7/e/4/4006b4cbf4b7d80eef7f08d0da320ad7/52fc016823d398fd6894b3a91f67269a.png</thumbnail>
+    </item>	
+      <title>NTV</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=f1d34949aa405f5ff7bf9be51c9c48eb&amp;nns_video_id=e72a42883ca4461c22b396c248cdb3c9&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/NTV.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>
+	<item>
+      <title>PNN</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456CA&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=6908f16664289ae2da7be827a888dff0&amp;nns_video_id=72027a6e149f60e6055481b8bba5f3fa&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/PNN.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>	
+    <item>
+      <title>Sea TV</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456CA&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=6696f204db449bbe3da368cb85840dbf&amp;nns_video_id=9d4799352a1eca5952f2b3bbc3f0f6d8&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/SEA.png</thumbnail>
+      <resolve>true</resolve>
+    </item>	
+	<item>
+      <title>RHM</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=480c2521e1d40ab5b9703135c45d3a63&amp;nns_video_id=a024152f1d255b5ae8bb1512a994aeda&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/RHM.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>
+	<item>
+      <title>RHM HD</title>
+      <link>http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/RHM.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>
+    <item>
+      <title>S Music</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=77f457e666783be43088ac879617b6e6&amp;nns_video_id=31a0fc4d0f022eeb1759a8537f9ec5e5&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/SMUSIC.png</thumbnail>
+    </item>	
+	<item>
+      <title>Town</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_video_id=bcac6d038bd68aff27e3b0b6302f229e&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/town.jpg</thumbnail>
+      <resolve>true</resolve>
+    </item>	
+    <item>
+      <title>Town HD</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=d33cb3c83e44fa0046127eda0424dfad&amp;nns_video_id=bcac6d038bd68aff27e3b0b6302f229e&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/town.jpg</thumbnail>
+    </item>	
+	<item>
+      <title>TV3</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=364c46787711e4e17fc8b2215dacfe6d&amp;nns_video_id=4a14b657327153251e81151c225793f3&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/TV3.png</thumbnail>
+    </item>	
+	<item>
+      <title>TV5</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456CA&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=c35345c8f040ffd74caddacff3d8b847&amp;nns_video_id=3faaa5c9171d8529795749c88040b5ec&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/TV5.png</thumbnail>
+    </item>
+    <item>
+      <title>TV9</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456CA&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=1745e6557435c9a424a1627642f39439&amp;nns_video_id=07dbc29ba75ab5b8c5e2b300818ab6b9&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/TV9.png</thumbnail>
+    </item>
+    <item>
+      <title>TVK</title>
+      <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=2c77ea90bc6e0ee4af1d76e4c27b4ff6&amp;nns_video_id=134f80a340581aa24c0643dc0152fad8&amp;nns_video_index=0&amp;nns_video_type=1</link>
+      <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/TVK.png</thumbnail>
+    </item>
+	
+    <item>
+      <title>Series</title>
+      <link>http://203.154.243.31:8081/live/series/index.m3u8</link>
+      <thumbnail>https://i.imgur.com/a9AVj65.jpg</thumbnail>	  
+    </item>	
+    <item>
+      <title>CH 7</title>
+      <link>https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8</link>
+      <thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png</thumbnail>	  
+    </item>	
+    <item>
+      <title>CTB</title>
+      <link>http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8</link>
+      <thumbnail>http://ctbtv.co.th/indexctb/ctbtv1.png</thumbnail>	  
+    </item>	
+    <item>
+      <title>DDTV</title>
+      <link>http://203.156.63.20:1935/live/ddtv/playlist.m3u8</link>
+      <thumbnail>https://i.imgur.com/hywu2pL.png</thumbnail>	  
+    </item>		
+    <item>
+      <title>MVTV</title>
+      <link>https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8</link>
+      <thumbnail>https://www.mvtv.co.th/wp-content/uploads/2019/01/cropped-mvtv-official-logo.png</thumbnail>	  
+    </item>	
+    <item>
+      <title>NBT Bangkok</title>
+      <link>http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8</link>
+      <thumbnail>https://i.imgur.com/QZ2WcZl.jpg</thumbnail>	  
+    </item>		
+    <item>
+      <title>Smart SME</title>
+      <link>https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8</link>
+      <thumbnail>https://i.imgur.com/dauuWLp.png</thumbnail>	  
+    </item>	
+    <item>
+      <title>Suwannabhumi TV</title>
+      <link>http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8</link>
+      <thumbnail>https://i.imgur.com/wVednTk.png</thumbnail>	  
+    </item>	
+    <item>
+      <title>TGN</title>
+      <link>https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8</link>
+      <thumbnail>https://i.imgur.com/aNExu5R.jpg</thumbnail>	  
+    </item>		
+    <item>
+      <title>Thai PBS 3</title>
+      <link>https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8</link>
+      <thumbnail>https://i.imgur.com/b4l0w2m.png</thumbnail>	  
+    </item>		
+    <item>
+      <title>Thai TV 3</title>
+      <link>https://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8</link>
+      <thumbnail>https://i.imgur.com/XXnVYFi.png</thumbnail>	  
+    </item>	
+    <item>
+      <title>TPTV</title>
+      <link>http://49.231.66.85:1935/live/tptv/playlist.m3u8</link>
+      <thumbnail>http://live.parliament.go.th/images/coronationceremony/logo.png</thumbnail>	  
+    </item>	
+
+
+	
+  </channel>
+</channels>
