@@ -7,7 +7,7 @@
       <title>Apsara</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=5c6a5dc8dc903af99b7eb41b020b40e6&amp;nns_video_id=07b506429e01034350f1f7508043ba17&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/apsara.png</thumbnail>
-	  <resolve>true</resolve>
+      <resolve>true</resolve>
     </item>
     <item>
       <title>Bayon</title>
@@ -37,30 +37,30 @@
       <thumbnail>https://i.imgur.com/KWjeTlX.jpg</thumbnail>
       <resolve>true</resolve>
     </item>	
-	<item>
+    <item>
       <title>ETV</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=19446ec121a1fac407ecd1459467ba5c&amp;nns_video_id=f7d0d8935e3b8483e5b315fc2f54c4be&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/ETV.jpg</thumbnail>
       <resolve>true</resolve>
     </item>	
-	<item>
+    <item>
       <title>Hang Meas</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=21488d9895e5bffde928ec9384fcc9f2&amp;nns_video_id=0264fb03fa31bb849ba82c1f3ab22ce6&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/RHM.jpg</thumbnail>
       <resolve>true</resolve>
     </item>
-	<item>
+    <item>
       <title>Hang Meas HD</title>
       <link>http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/RHM.jpg</thumbnail>
       <resolve>true</resolve>
     </item>	
-	<item>
+    <item>
       <title>MSJTV</title>
       <link>rtmp://124.248.165.18:1935/live/myStream playpath=myStream swfUrl=http://msjtv.asia/Scripts/player/6.11/player.flash.swf live=true</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/MSJTV.png</thumbnail>
     </item>	
-	<item>
+    <item>
       <title>MyTV</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=a89cdd8c6279eb0b584627e0f571a698&amp;nns_video_id=00d0bfe34121cd8a998a4bf7fffd2c19&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/MYTV.jpg</thumbnail>
@@ -77,7 +77,7 @@
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/NTV.jpg</thumbnail>
       <resolve>true</resolve>
     </item>
-	<item>
+    <item>
       <title>PNN</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456CA&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=6908f16664289ae2da7be827a888dff0&amp;nns_video_id=72027a6e149f60e6055481b8bba5f3fa&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/PNN.jpg</thumbnail>
@@ -89,13 +89,13 @@
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/SEA.png</thumbnail>
       <resolve>true</resolve>
     </item>	
-	<item>
+    <item>
       <title>RHM</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=480c2521e1d40ab5b9703135c45d3a63&amp;nns_video_id=a024152f1d255b5ae8bb1512a994aeda&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/RHM.jpg</thumbnail>
       <resolve>true</resolve>
     </item>
-	<item>
+    <item>
       <title>RHM HD</title>
       <link>http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/RHM.jpg</thumbnail>
@@ -106,7 +106,7 @@
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=77f457e666783be43088ac879617b6e6&amp;nns_video_id=31a0fc4d0f022eeb1759a8537f9ec5e5&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/SMUSIC.png</thumbnail>
     </item>	
-	<item>
+    <item>
       <title>Town</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_video_id=bcac6d038bd68aff27e3b0b6302f229e&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/town.jpg</thumbnail>
@@ -117,12 +117,12 @@
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=d33cb3c83e44fa0046127eda0424dfad&amp;nns_video_id=bcac6d038bd68aff27e3b0b6302f229e&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/town.jpg</thumbnail>
     </item>	
-	<item>
+    <item>
       <title>TV3</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=364c46787711e4e17fc8b2215dacfe6d&amp;nns_video_id=4a14b657327153251e81151c225793f3&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/TV3.png</thumbnail>
     </item>	
-	<item>
+    <item>
       <title>TV5</title>
       <link>http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&amp;nns_output_type=json&amp;nns_user_agent=nn_pad/ipad/1.0.0&amp;nns_language=en_US&amp;nns_tag=28&amp;nns_user_id=IPADB123456789089756745634523456CA&amp;nns_device_id=&amp;nns_buss_id=2000002&amp;nns_category_id=1000001&amp;nns_func=apply_play_video&amp;nns_mac_id=112233445566&amp;nns_media_assets_id=pad_live_v1&amp;nns_media_id=c35345c8f040ffd74caddacff3d8b847&amp;nns_video_id=3faaa5c9171d8529795749c88040b5ec&amp;nns_video_index=0&amp;nns_video_type=1</link>
       <thumbnail>https://raw.githubusercontent.com/goupon/file/master/logo/TV5.png</thumbnail>
