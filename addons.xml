@@ -42,7 +42,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.KonThai" version="3.0.3" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
+<addon id="plugin.video.KonThai" version="3.0.4" name="KonThai" provider-name="Dknlght, Price, Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.simplejson" />
