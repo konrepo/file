@@ -29,7 +29,7 @@ url="https://www.dropbox.com/s/nz0y7skbmls9wph/Maylee.zip?dl=1"
 gui="http://"
 kodi="18.8"
 theme="http://"
-icon="https://raw.githubusercontent.com/konrepo/file/master/logo/KhmerNoXXX.png"
+icon="https://raw.githubusercontent.com/konrepo/file/master/logo/RPi3.jpg"
 fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg"
 preview="https://"
 adult="no"
@@ -46,5 +46,3 @@ fanart="https://raw.githubusercontent.com/konrepo/file/master/logo/wallpaper.jpg
 preview="https://"
 adult="no"
 description="This addon belongs to Es"
-
-
