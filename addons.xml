@@ -241,19 +241,31 @@
 </addon>	
 	
 
-<addon id="plugin.program.KonWizard" name="Kon Wizard" version="2.3" provider-name="Goupon">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Kon Wizard</summary>
-    <description lang="en">Use at your own risk</description>
-    <platform>all</platform>
-  </extension>
+<addon id="plugin.program.KonWizard" name="Kon Wizard" version="2.5" provider-name="Goupon">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+        <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
+        <import addon="script.speedtester" optional="true" version="1.1.2" />
+    </requires>
+    
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+    
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Kon Wizard</summary>
+        <description lang="en">Use at your own risk</description>
+        <platform>all</platform>
+
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="repository.kon" name="Kon Repo" version="3.3" provider-name="Goupon">
