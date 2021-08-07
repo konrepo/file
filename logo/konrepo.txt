@@ -1,6 +1,6 @@
 id="plugin.program.KonWizard"
-version="2.4"
-zip="https://github.com/konrepo/file/raw/master/plugin.program.KonWizard/plugin.program.KonWizard-2.3.zip"
+version="2.6"
+zip="https://github.com/konrepo/file/raw/master/plugin.program.KonWizard/plugin.program.KonWizard-2.6.zip"
 
 name="TheMovies"
 version="1.0.6"
