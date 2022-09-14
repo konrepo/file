@@ -1,15 +1,30 @@
 <builds>
     
   <build>
-	<name>[COLORcyan][B]          CHAINS BUILDS       [/COLOR][/B]</name>
+	<name>[COLORred][B]Raspberry Pi 4[/COLOR][/B]</name>
 	<version>[COLORred]Matrix[/COLOR]</version>
-	<url>https://thechains24.com/BUILDS/19%20builds/kodi.zip</url>
+	<url>https://www.dropbox.com/s/a4urrwfpfog0x88/Khmer_RPi4.zip?dl=1</url>
 	<icon>https://i.imgur.com/Lq49js2.jpg</icon>
 	<fanart>https://i.imgur.com/Lq49js2.jpg</fanart>
-	<description>CHAINS BUILD</description>
+	<description>Dubbed in Khmers, up to 4K</description>
   </build>
- 
-  
+  <build>
+	<name>[COLORcyan][B]Raspberry Pi 3[/COLOR][/B]</name>
+	<version>[COLORred]Matrix[/COLOR]</version>
+	<url>https://www.dropbox.com/s/a4urrwfpfog0x88/Khmer_RPi4.zip?dl=1</url>
+	<icon>https://i.imgur.com/Lq49js2.jpg</icon>
+	<fanart>https://i.imgur.com/Lq49js2.jpg</fanart>
+	<description>Dubbed in Khmers, up to 1080p</description>
+  </build>
+  <build>
+	<name>[COLORblue][B]Android Device[/COLOR][/B]</name>
+	<version>[COLORred]Matrix[/COLOR]</version>
+	<url>https://www.dropbox.com/s/a4urrwfpfog0x88/Khmer_RPi4.zip?dl=1</url>
+	<icon>https://i.imgur.com/Lq49js2.jpg</icon>
+	<fanart>https://i.imgur.com/Lq49js2.jpg</fanart>
+	<description>Dubbed in Khmers, up to 4K</description>
+  </build>	
+	
   
 
 </builds>
