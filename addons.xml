@@ -596,6 +596,19 @@
     </news>
   </extension>
 </addon>
+	
+<addon id="script.module.t0mm0.common" name="t0mm0's common stuff" version="3.0.1" provider-name="t0mm0">
+  <requires>
+	<import addon="script.module.six" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Collection of commonly used addon routines</summary>
+    <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
+  </extension>
+</addon>
+	
 
 <addon id="script.module.iso639" name="ISO639 Library" version="0.4.5.1" provider-name="back-to">
   <requires>
