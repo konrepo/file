@@ -4,24 +4,24 @@
 	<name>[COLORred][B]Raspberry Pi 4[/COLOR][/B]</name>
 	<version>[COLORred]Matrix[/COLOR]</version>
 	<url>https://www.dropbox.com/s/a4urrwfpfog0x88/Khmer_RPi4.zip?dl=1</url>
-	<icon>https://i.imgur.com/Lq49js2.jpg</icon>
-	<fanart>https://i.imgur.com/Lq49js2.jpg</fanart>
+	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</icon>
+	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</fanart>
 	<description>Dubbed in Khmers, up to 4K</description>
   </build>
   <build>
 	<name>[COLORcyan][B]Raspberry Pi 3[/COLOR][/B]</name>
 	<version>[COLORred]Matrix[/COLOR]</version>
 	<url>https://www.dropbox.com/s/a4urrwfpfog0x88/Khmer_RPi4.zip?dl=1</url>
-	<icon>https://i.imgur.com/Lq49js2.jpg</icon>
-	<fanart>https://i.imgur.com/Lq49js2.jpg</fanart>
+	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi3.jpg</icon>
+	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi3.jpg</fanart>
 	<description>Dubbed in Khmers, up to 1080p</description>
   </build>
   <build>
 	<name>[COLORblue][B]Android Device[/COLOR][/B]</name>
 	<version>[COLORred]Matrix[/COLOR]</version>
 	<url>https://www.dropbox.com/s/a4urrwfpfog0x88/Khmer_RPi4.zip?dl=1</url>
-	<icon>https://i.imgur.com/Lq49js2.jpg</icon>
-	<fanart>https://i.imgur.com/Lq49js2.jpg</fanart>
+	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/android.png</icon>
+	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/android.png</fanart>
 	<description>Dubbed in Khmers, up to 4K</description>
   </build>	
 	
