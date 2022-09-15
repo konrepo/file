@@ -3,7 +3,7 @@
   <build>
 	<name>[COLORred][B]Raspberry Pi 4[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 19.x Matrix[/COLOR]</version>
-	<url>https://www.dropbox.com/s/a4urrwfpfog0x88/Khmer_RPi4.zip?dl=1</url>
+	<url>https://www.dropbox.com/s/nv902scl5iy428v/Khmer19_RPi4.zip?dl=1</url>
 	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</icon>
 	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</fanart>
 	<description>Dubbed in Khmers, up to 4K</description>
@@ -19,7 +19,7 @@
   <build>
 	<name>[COLORblue][B]Android Device[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 19.x Matrix[/COLOR]</version>
-	<url>https://www.dropbox.com/s/a4urrwfpfog0x88/Khmer_RPi4.zip?dl=1</url>
+	<url>https://www.dropbox.com/s/nv902scl5iy428v/Khmer19_RPi4.zip?dl=1</url>
 	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/andorid.jpg</icon>
 	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/andorid.jpg</fanart>
 	<description>Dubbed in Khmers, up to 4K</description>
