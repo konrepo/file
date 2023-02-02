@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-<addon id="plugin.video.KhmerDubbed" version="1.1.0" name="KhmerDubbed" provider-name="Dodgex, Goupon">
+<addon id="plugin.video.KhmerDubbed" version="1.1.1" name="KhmerDubbed" provider-name="Dodgex, Goupon">
   <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.simplejson" />
@@ -59,18 +58,23 @@
 </addon>
 
 
-<addon id="repository.kon" name="Kon Repo" version="3.3" provider-name="Goupon">
+<addon id="repository.kon" name="Kon Repo" version="3.4" provider-name="Goupon">
 	<extension point="xbmc.addon.repository" name="Kon Repo">
+	  <dir>
 		<info compressed="false">https://raw.githubusercontent.com/konrepo/file/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/konrepo/file/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/konrepo/file/master/</datadir>
+	  </dir>		
 	</extension>
 	<extension point="xbmc.addon.metadata">
+	  <dir>	
 		<summary></summary>
 		<description></description>
 		<platform>all</platform>
+	  </dir>		
 	</extension>
 </addon>
+
 	
 	
 
