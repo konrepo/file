@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kon" name="Kon Repo" version="3.4" provider-name="Goupon">
 	<extension point="xbmc.addon.repository" name="Kon Repo">
-	  <dir>
+	  <dir minversion="20.0.0">
 		<info compressed="false">https://raw.githubusercontent.com/konrepo/file/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/konrepo/file/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/konrepo/file/master/</datadir>
 	  </dir>		
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	  <dir>	
 		<summary></summary>
 		<description></description>
-		<platform>all</platform>
-	  </dir>		
+		<platform>all</platform>		
 	</extension>
 </addon>
-
 
 
 
