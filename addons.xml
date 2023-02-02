@@ -29,6 +29,7 @@
 
 <addon id="repository.kon" name="Kon Repo" version="3.4" provider-name="Goupon">
 	<extension point="xbmc.addon.repository" name="Kon Repo">
+	  <dir>	
 		<info compressed="false">https://raw.githubusercontent.com/konrepo/file/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/konrepo/file/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/konrepo/file/master/</datadir>
@@ -43,7 +44,8 @@
             <fanart>fanart.jpg</fanart>
         </assets>		
 	</extension>
-</addon>	
+</addon>
+	
 	
 	
 
