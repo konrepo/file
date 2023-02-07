@@ -24,8 +24,7 @@
     </assets>
     <platform>all</platform>
   </extension>
-</addon>	
-
+</addon>
 
 <addon id="repository.kon" name="Kon Repo" version="3.4" provider-name="Goupon">
 	<extension point="xbmc.addon.repository" name="Kon Repo">
