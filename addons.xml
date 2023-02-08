@@ -19,7 +19,7 @@
     <description>Use at your own risk</description>
     <assets>
       <icon>icon.png</icon>
-	  <fanart>fanart.jpg</fanart>
+      <fanart>fanart.jpg</fanart>
     </assets>
     <platform>all</platform>
   </extension>
