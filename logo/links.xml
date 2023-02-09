@@ -6,17 +6,9 @@
 	<url>https://www.dropbox.com/s/pp1nrkq19uthexf/Khmer20_RPi4.zip?dl=1</url>
 	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</icon>
 	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</fanart>
-	<description>Dubbed in Khmers, up to 4K</description>
+	<description>Dubbed in Khmers, up to 8K</description>
   </build>	
     
-  <build>
-	<name>[COLORred][B]Raspberry Pi 4[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 19.x Matrix[/COLOR]</version>
-	<url>https://www.dropbox.com/s/nv902scl5iy428v/Khmer19_RPi4.zip?dl=1</url>
-	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</icon>
-	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</fanart>
-	<description>Dubbed in Khmers, up to 4K</description>
-  </build>
   <build>
 	<name>[COLORcyan][B]Raspberry Pi 3[/COLOR][/B]</name>
 	<version>[COLORred]Kodi 19.x Matrix[/COLOR]</version>
