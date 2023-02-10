@@ -2,7 +2,7 @@
 	
   <build>
 	<name>[COLORred][B]Raspberry Pi 4[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.x Matrix[/COLOR]</version>
+	<version>[COLORred]Kodi 20.x Nexus[/COLOR]</version>
 	<url>https://www.dropbox.com/s/pp1nrkq19uthexf/Khmer20_RPi4.zip?dl=1</url>
 	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</icon>
 	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi4BG.jpg</fanart>
@@ -11,7 +11,7 @@
     
   <build>
 	<name>[COLORcyan][B]Raspberry Pi 3[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.x Matrix[/COLOR]</version>
+	<version>[COLORred]Kodi 20.x Nexus[/COLOR]</version>
 	<url>https://www.dropbox.com/s/ai51yp9jcwtpdvk/Khmer20_RPi3.zip?dl=1</url>
 	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi3.jpg</icon>
 	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/RPi3.jpg</fanart>
@@ -19,8 +19,8 @@
   </build>
 	
   <build>
-	<name>[COLORblue][B]Include Porn[/COLOR][/B]</name>
-	<version>[COLORred]Kodi 20.x Matrix[/COLOR]</version>
+	<name>[COLORblue][B]Include Adult[/COLOR][/B]</name>
+	<version>[COLORred]Kodi 20.x Nexus[/COLOR]</version>
 	<url>https://www.dropbox.com/s/kqwjrihbolp0dvh/Special20.zip?dl=1</url>
 	<icon>https://raw.githubusercontent.com/konrepo/file/master/logo/special.png</icon>
 	<fanart>https://raw.githubusercontent.com/konrepo/file/master/logo/special.png</fanart>
