@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.KDubbed" version="1.7.7" name="Khmer Dubbed" provider-name="Dodgex, Goupon">
+<addon id="plugin.video.KDubbed" version="1.7.8" name="Khmer Dubbed" provider-name="Dodgex, Goupon">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.simplejson"/>
@@ -24,31 +24,6 @@
     <platform>all</platform>
   </extension>
 </addon>
-
-<addon id="plugin.video.american" version="1.0.1" name="SerialGo" provider-name="Dodgex, Goupon">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.simplejson"/>
-    <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.resolveurl"/>
-    <import addon="plugin.video.youtube"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.future"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Enjoy</summary>
-    <description>Use at your own risk. This add-on is not affiliated with any content providers.</description>
-    <disclaimer>This add-on is not affiliated with any of the content providers. Use at your own discretion.</disclaimer>
-    <assets>
-      <icon>resources/images/icon.png</icon>
-      <fanart>resources/images/fanart.jpg</fanart>
-    </assets>
-    <platform>all</platform>
-  </extension>
-</addon>	
 
 <addon id="repository.kon" name="Kon Repo" version="3.5" provider-name="Goupon">
 	<extension point="xbmc.addon.repository" name="Kon Repo">
